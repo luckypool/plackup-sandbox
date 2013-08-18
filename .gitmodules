@@ -1,0 +1,3 @@
+[submodule "modules/plackup-a"]
+	path = modules/plackup-a
+	url = git@github.com:luckypool/plackup-a.git
