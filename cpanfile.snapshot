@@ -307,47 +307,6 @@ DISTRIBUTIONS
       Test::More 0
       strict 0
       warnings 0
-  ExtUtils-MakeMaker-6.72
-    pathname: B/BI/BINGOS/ExtUtils-MakeMaker-6.72.tar.gz
-    provides:
-      DynaLoader 6.72
-      ExtUtils::Command::MM 6.72
-      ExtUtils::Liblist 6.72
-      ExtUtils::Liblist::Kid 6.72
-      ExtUtils::MM 6.72
-      ExtUtils::MM_AIX 6.72
-      ExtUtils::MM_Any 6.72
-      ExtUtils::MM_BeOS 6.72
-      ExtUtils::MM_Cygwin 6.72
-      ExtUtils::MM_DOS 6.72
-      ExtUtils::MM_Darwin 6.72
-      ExtUtils::MM_MacOS 6.72
-      ExtUtils::MM_NW5 6.72
-      ExtUtils::MM_OS2 6.72
-      ExtUtils::MM_QNX 6.72
-      ExtUtils::MM_UWIN 6.72
-      ExtUtils::MM_Unix 6.72
-      ExtUtils::MM_VMS 6.72
-      ExtUtils::MM_VOS 6.72
-      ExtUtils::MM_Win32 6.72
-      ExtUtils::MM_Win95 6.72
-      ExtUtils::MY 6.72
-      ExtUtils::MakeMaker 6.72
-      ExtUtils::MakeMaker::Config 6.72
-      ExtUtils::MakeMaker::_version 6.72
-      ExtUtils::Mkbootstrap 6.72
-      ExtUtils::Mksymlists 6.72
-      ExtUtils::testlib 6.72
-      MM 6.72
-      MY 6.72
-      in 6.72
-    requirements:
-      Data::Dumper 0
-      DirHandle 0
-      File::Basename 0
-      File::Spec 0.8
-      Pod::Man 0
-      perl 5.006
   FCGI-0.74
     pathname: F/FL/FLORA/FCGI-0.74.tar.gz
     provides:
