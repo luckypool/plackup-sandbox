@@ -131,6 +131,15 @@ DISTRIBUTIONS
       Test::Fatal 0
       Test::More 0
       perl 5.006
+  Config-PL-0.02
+    pathname: S/SO/SONGMU/Config-PL-0.02.tar.gz
+    provides:
+      Config::PL 0.02
+    requirements:
+      CPAN::Meta 0
+      CPAN::Meta::Prereqs 0
+      Module::Build 0.38
+      perl 5.008001
   Coro-6.31
     pathname: M/ML/MLEHMANN/Coro-6.31.tar.gz
     provides:
@@ -765,6 +774,18 @@ DISTRIBUTIONS
       PSGI 1.102
     requirements:
       ExtUtils::MakeMaker 6.36
+  Parallel-ForkManager-1.03
+    pathname: S/SZ/SZABGAB/Parallel-ForkManager-1.03.tar.gz
+    provides:
+      Parallel::ForkManager 1.03
+    requirements:
+      ExtUtils::MakeMaker 0
+      File::Path 0
+      File::Spec 0
+      File::Temp 0
+      POSIX 0
+      Storable 0
+      Test::More 0.80
   Parallel-Prefork-0.14
     pathname: K/KA/KAZUHO/Parallel-Prefork-0.14.tar.gz
     provides:
@@ -1044,12 +1065,12 @@ DISTRIBUTIONS
       Test::More 0.88
       Test::TCP 0.15
       perl 5.008001
-  Starman-0.4004
-    pathname: M/MI/MIYAGAWA/Starman-0.4004.tar.gz
+  Starman-0.4006
+    pathname: M/MI/MIYAGAWA/Starman-0.4006.tar.gz
     provides:
       HTTP::Server::PSGI::Net::Server::PreFork undef
       Plack::Handler::Starman undef
-      Starman 0.4004
+      Starman 0.4006
       Starman::Server undef
     requirements:
       Data::Dump 0
@@ -1316,10 +1337,10 @@ DISTRIBUTIONS
       File::Temp 0
       Test::More 0
       perl 5.00800
-  Try-Tiny-0.16
-    pathname: D/DO/DOY/Try-Tiny-0.16.tar.gz
+  Try-Tiny-0.18
+    pathname: D/DO/DOY/Try-Tiny-0.18.tar.gz
     provides:
-      Try::Tiny 0.16
+      Try::Tiny 0.18
     requirements:
       Carp 0
       Exporter 0
