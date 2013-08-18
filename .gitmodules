@@ -1,3 +1,6 @@
 [submodule "modules/plackup-a"]
 	path = modules/plackup-a
 	url = git@github.com:luckypool/plackup-a.git
+[submodule "modules/plackup-b"]
+	path = modules/plackup-b
+	url = git@github.com:luckypool/plackup-b.git
