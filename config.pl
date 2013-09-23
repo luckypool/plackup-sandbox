@@ -1,5 +1,6 @@
 use utf8;
-{
+use FindBin;
++{
     'plackup-a' => {
         cpanfile => $FindBin::Bin . '/modules/plackup-a/cpanfile',
         psgi     => $FindBin::Bin . '/modules/plackup-a/app.psgi',
